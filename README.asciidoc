@@ -1,5 +1,9 @@
-= AdminFaces NetBeans Sample Project
+= https://adminfaces.io/site[AdminFaces^] starter Project for NetBeans
  
+TIP: If you use maven, just use admin-starter-tomcat project
+ 
+TIP: If you use a JavaEE 6 (or newer) server you can remove JavaEE implementation jars such `javax.faces-2.2.17`,`javax.inject-1`, and `weld-servlet-2.4.2.Final` from lib folder.
+
 == Running 
 
 * Open the project on Netbean/OpenBeans
