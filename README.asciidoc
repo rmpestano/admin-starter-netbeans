@@ -1,0 +1,7 @@
+= AdminFaces NetBeans Sample Project
+ 
+== Running 
+
+* Open the project on Netbean/OpenBeans
+* Setup server (Tested with Tomcat 9)
+* Run/Debug on the IDE
